@@ -1,4 +1,4 @@
-## HA1 NA Deep mutation scanning
+## HA1 Deep mutation scanning
 
 ### Dependencies ###
 * [python](https://www.python.org/) (version 3.9)
@@ -26,7 +26,7 @@ conda create -n HA1 -c bioconda -c anaconda -c conda-forge \
 ```   
 
 2. Activate conda environment:   
-``source activate NA``
+``source activate HA1``
 
 ### Calling mutations from sequencing data ###
 1. Using UMI to correct sequencing errors:   
