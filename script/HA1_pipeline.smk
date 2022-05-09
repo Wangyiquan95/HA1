@@ -1,11 +1,9 @@
 # only variable needed to change
-
-
 PROJECT_PATH='/Users/yiquan/PycharmProjects/HA1'
 FASTA = PROJECT_PATH + '/result/tagfree_fasta/{SAMPLENAME}_tagfree.fa'
 SAMPLENAMES, = glob_wildcards(FASTA)
 REF=PROJECT_PATH + '/ref/PR8HA_ORF.fa'
-#print(SAMPLENAMES)
+
 FAS=PROJECT_PATH + '/result/tagfree_fasta/{SAMPLENAME}_tagfree.fa'
 RESULT_PATH = PROJECT_PATH + '/result/{SAMPLENAME}'
 RM_PRIMER_FAS = RESULT_PATH + '/{SAMPLENAME}_rm_primer.fa'

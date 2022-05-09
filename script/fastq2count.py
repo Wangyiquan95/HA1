@@ -35,13 +35,13 @@ def sum_mut(aa1,aa2):
     return sum ( aa1[i] != aa2[i] for i in range(len(aa1)) )
 
 
-def call_mutid(mutpep,refseq,shift,amplicon):
+def call_mutid(mutpep,refseq,shift):
   mut_id_ls = []
   assert (len(mutpep) == len(refseq))
   for n in range(len(mutpep)):
     pos = n+shift
     if refseq[n]!=mutpep[n]:
-       mut_id_ls.append(amplicon+'|'+refseq[n]+str(pos)+mutpep[n])
+       mut_id_ls.append(refseq[n]+str(pos)+mutpep[n])
   return mut_id_ls
 
 def Call_Amp_ID(record_id):
@@ -54,38 +54,48 @@ def cal_fastq_dic(fastq,ref):
     print ("reading %s" % fastq)
 
     Rrecords = SeqIO.parse(fastq,"fastq")
-    ref_aa = translation(str(ref.seq))
+    ref = str(ref.seq)
     mut_id_ls = []
     error_read=0
     len_error=0
     shift=0
-    amp_ref_aa=''
+    amp_ref=''
     for record in Rrecords:
         amp= Call_Amp_ID(record.id)
         if amp == 'Amp1':
-            amp_ref_aa = ref_aa[17:125] #amplicon 1 start and end
+            amp_ref = ref[51:375] #amplicon 1 start and end
+            shift_dna=52
             shift=18
         elif amp == 'Amp2':
-            amp_ref_aa = ref_aa[125:233] #amplicon 2 start and end
+            amp_ref = ref[375:699] #amplicon 2 start and end
+            shift_dna=376
             shift=126
         elif amp == 'Amp3':
-            amp_ref_aa = ref_aa[233:342]  #amplicon 3 start and end
+            amp_ref = ref[699:1026]  #amplicon 3 start and end
+            shift_dna=700
             shift=234
         else:
             error_read +=1
         seq = str(record.seq)
-        if len(seq) != len(amp_ref_aa)*3:
+        if len(seq) != len(amp_ref):
             len_error+=1
-        if len(seq) == len(amp_ref_aa)*3:
+        if len(seq) == len(amp_ref):
             mut_aa = translation(seq)
-            if sum_mut(mut_aa, amp_ref_aa) == 0:
-
-                mut_id = amp+'|'+'WT'
+            amp_ref_aa = translation(amp_ref)
+            if sum_mut(seq, amp_ref) == 0:
+                mut_id = amp + '|' + 'WT'
                 mut_id_ls.append(mut_id)
             else:
-                call_mut_id = call_mutid(mut_aa, amp_ref_aa,shift,amp)
-                mut_id = "-".join(sorted(call_mut_id, key=lambda x:int(x[6:-1])))
-                mut_id_ls.append(mut_id)
+                if sum_mut(mut_aa, amp_ref_aa) == 0:
+                    call_mut_id = call_mutid(seq, amp_ref, shift_dna)
+                    mut_ids = "-".join(sorted(call_mut_id, key=lambda x: int(x[1:-1])))
+                    mut_id = amp + '|' + 'silent' + '_' + mut_ids
+                    mut_id_ls.append(mut_id)
+                else:
+                    call_mut_id = call_mutid(mut_aa, amp_ref_aa, shift)
+                    mut_ids = "-".join(sorted(call_mut_id, key=lambda x: int(x[1:-1])))
+                    mut_id = amp + '|' + mut_ids
+                    mut_id_ls.append(mut_id)
     print('no amplicon tag, a total of %s reads were exclued ' %error_read)
     print('deletion or insertion, a total of %s reads were excluded' %len_error)
     AA_dict = Counter(mut_id_ls)
