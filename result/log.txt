@@ -1,0 +1,2110 @@
+there are total 10 pared end files 
+
+working on... Y_1_DMS_CAAGCTAG-CGCTATGT and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           6803374
+2                           1165922
+3                            204351
+4                             55734
+5                             36697
+6                             37743
+7                             42873
+8                             49895
+9                             57362
+10                            65478
+11                            73652
+12                            80477
+13                            86794
+14                            90558
+15                            92014
+16                            91402
+17                            88319
+18                            83365
+19                            77077
+20                            70048
+21                            62387
+22                            53709
+23                            46001
+24                            38762
+25                            32108
+26                            26068
+27                            20738
+28                            16779
+29                            12989
+30                            10155
+31                             7828
+32                             5885
+33                             4574
+34                             3551
+35                             2752
+36                             2137
+37                             1650
+38                             1294
+39                             1049
+40                              851
+41                              669
+42                              581
+43                              510
+44                              395
+45                              359
+46                              294
+47                              282
+48                              208
+49                              196
+50                              164
+51                              143
+52                               90
+53                               99
+54                               76
+55                               86
+56                               54
+57                               59
+58                               44
+59                               50
+60                               33
+61                               32
+62                               27
+63                               20
+64                               17
+65                               13
+66                               15
+67                               10
+68                               18
+69                                6
+70                                9
+71                               10
+72                                6
+73                                9
+74                                8
+75                                4
+76                                4
+77                                9
+78                                2
+79                                3
+80                                4
+81                                5
+82                                4
+83                                2
+84                                3
+86                                2
+88                                3
+89                                2
+90                                4
+92                                3
+93                                2
+94                                2
+95                                1
+97                                3
+98                                2
+99                                2
+100                               1
+102                               3
+103                               3
+105                               2
+115                               1
+121                               1
+123                               1
+126                               1
+136                               1
+137                               1
+145                               1
+157                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+^[[D^[[DBarcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+working on... WT_2_DMS_TTATAACC-TCGATATC and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           8164038
+2                           1453572
+3                            254416
+4                             65100
+5                             42890
+6                             49747
+7                             62447
+8                             77460
+9                             93649
+10                           107347
+11                           118151
+12                           125315
+13                           127101
+14                           124842
+15                           118278
+16                           108515
+17                            97376
+18                            83930
+19                            71496
+20                            59129
+21                            47284
+22                            37181
+23                            28620
+24                            21701
+25                            16387
+26                            11832
+27                             8630
+28                             6416
+29                             4685
+30                             3426
+31                             2626
+32                             1843
+33                             1486
+34                             1173
+35                              918
+36                              744
+37                              605
+38                              505
+39                              442
+40                              347
+41                              308
+42                              250
+43                              188
+44                              186
+45                              129
+46                              129
+47                               93
+48                               63
+49                               57
+50                               40
+51                               36
+52                               29
+53                               37
+54                               28
+55                               23
+56                               15
+57                               14
+58                               11
+59                               10
+60                               14
+61                                9
+62                                7
+63                                9
+64                                3
+65                                9
+66                                5
+67                                7
+68                                4
+69                                3
+70                                4
+71                                6
+72                                4
+73                                6
+74                                3
+75                                1
+76                                2
+77                                3
+78                                1
+79                                1
+80                                1
+82                                1
+83                                1
+84                                2
+85                                2
+86                                2
+89                                3
+90                                1
+91                                1
+93                                1
+94                                1
+95                                1
+96                                1
+99                                1
+100                               1
+108                               1
+113                               1
+142                               1
+152                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+Barcodes examined so far: 11400000
+Barcodes examined so far: 11600000
+working on... Y_2_DMS_TGGATCGA-TATCGCAC and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           7813270
+2                           1356506
+3                            233535
+4                             59595
+5                             37081
+6                             40453
+7                             50130
+8                             62640
+9                             76412
+10                            90680
+11                           104319
+12                           115264
+13                           122610
+14                           127288
+15                           127668
+16                           123230
+17                           116067
+18                           106602
+19                            95044
+20                            82760
+21                            70588
+22                            58535
+23                            47434
+24                            37757
+25                            29722
+26                            22950
+27                            17704
+28                            13197
+29                             9837
+30                             7280
+31                             5522
+32                             4040
+33                             3066
+34                             2362
+35                             1776
+36                             1417
+37                             1139
+38                              965
+39                              789
+40                              702
+41                              560
+42                              435
+43                              413
+44                              336
+45                              291
+46                              242
+47                              213
+48                              198
+49                              117
+50                              106
+51                              103
+52                               87
+53                               60
+54                               67
+55                               52
+56                               34
+57                               29
+58                               32
+59                               22
+60                               23
+61                               17
+62                               18
+63                               17
+64                               10
+65                                6
+66                               11
+67                               10
+68                               11
+69                               11
+70                                9
+71                                5
+72                                7
+73                                7
+74                                5
+75                                6
+76                                3
+77                                7
+78                                4
+79                                5
+80                                2
+81                                4
+82                                4
+83                                2
+84                                2
+85                                4
+86                                5
+87                                4
+88                                3
+90                                3
+92                                2
+93                                3
+94                                1
+96                                1
+97                                1
+98                                2
+101                               2
+103                               3
+105                               1
+106                               1
+113                               1
+115                               1
+120                               1
+126                               1
+129                               1
+131                               1
+133                               1
+135                               1
+197                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+working on... Y_3_DMS_AGTTCAGG-TCTGTTGG and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           7269799
+2                           1237349
+3                            211159
+4                             54791
+5                             37471
+6                             43565
+7                             56016
+8                             71926
+9                             88400
+10                           106033
+11                           121736
+12                           133600
+13                           141904
+14                           143527
+15                           139320
+16                           131749
+17                           121055
+18                           107152
+19                            92759
+20                            77743
+21                            63636
+22                            50775
+23                            39725
+24                            30613
+25                            23289
+26                            17536
+27                            12609
+28                             9297
+29                             6862
+30                             4988
+31                             3722
+32                             2852
+33                             2120
+34                             1687
+35                             1348
+36                             1073
+37                              940
+38                              782
+39                              617
+40                              534
+41                              437
+42                              366
+43                              298
+44                              246
+45                              225
+46                              169
+47                              167
+48                              121
+49                               92
+50                               89
+51                               68
+52                               66
+53                               41
+54                               30
+55                               35
+56                               28
+57                               26
+58                               20
+59                               18
+60                               15
+61                               13
+62                               13
+63                               11
+64                                4
+65                                8
+66                                5
+67                                9
+68                                9
+69                               11
+70                                6
+71                                6
+72                                5
+73                                3
+74                                6
+75                                2
+76                                3
+77                                1
+78                                3
+79                                3
+82                                2
+83                                1
+84                                1
+85                                3
+87                                4
+92                                2
+93                                1
+94                                3
+95                                1
+96                                1
+97                                1
+98                                2
+99                                1
+100                               1
+101                               2
+102                               4
+106                               1
+107                               1
+109                               1
+110                               1
+114                               1
+120                               1
+127                               1
+138                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+working on... Plasmid_DMS_GACCTGAA-CTCACCAA and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+Processed 40.0 Million reads
+Processed 41.0 Million reads
+Processed 42.0 Million reads
+Processed 43.0 Million reads
+Processed 44.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           8907036
+2                           1635986
+3                            298693
+4                             74740
+5                             41612
+6                             40904
+7                             47517
+8                             56724
+9                             67936
+10                            80189
+11                            91767
+12                           103134
+13                           112277
+14                           118422
+15                           121328
+16                           121577
+17                           119106
+18                           112464
+19                           104459
+20                            94038
+21                            83705
+22                            72824
+23                            61992
+24                            51553
+25                            42379
+26                            33628
+27                            26473
+28                            20722
+29                            16004
+30                            12283
+31                             9242
+32                             7058
+33                             5280
+34                             3952
+35                             3081
+36                             2391
+37                             1969
+38                             1587
+39                             1241
+40                             1026
+41                              891
+42                              760
+43                              613
+44                              568
+45                              498
+46                              427
+47                              390
+48                              292
+49                              243
+50                              232
+51                              174
+52                              174
+53                              131
+54                              117
+55                               96
+56                               78
+57                               65
+58                               61
+59                               54
+60                               41
+61                               35
+62                               35
+63                               41
+64                               36
+65                               20
+66                               23
+67                               26
+68                               11
+69                               12
+70                               15
+71                               18
+72                                9
+73                                6
+74                               10
+75                                9
+76                               12
+77                                3
+78                                6
+79                                6
+80                                7
+81                                7
+82                               11
+83                               11
+84                                6
+85                                7
+86                                4
+87                                5
+88                                4
+89                                4
+90                                5
+91                                1
+92                                6
+93                                1
+94                                4
+95                                3
+96                                1
+98                                2
+100                               2
+101                               4
+103                               2
+104                               2
+106                               1
+107                               1
+108                               1
+109                               1
+110                               1
+111                               2
+112                               1
+113                               1
+116                               1
+118                               1
+119                               1
+120                               1
+121                               1
+122                               2
+124                               2
+127                               1
+129                               2
+138                               2
+145                               1
+158                               1
+171                               1
+172                               1
+175                               1
+188                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+Barcodes examined so far: 11400000
+Barcodes examined so far: 11600000
+Barcodes examined so far: 11800000
+Barcodes examined so far: 12000000
+Barcodes examined so far: 12200000
+Barcodes examined so far: 12400000
+Barcodes examined so far: 12600000
+Barcodes examined so far: 12800000
+working on... WT_1_DMS_CCGCGGTT-CTAGCGCT and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+Processed 40.0 Million reads
+Processed 41.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           9542474
+2                           1980434
+3                            414909
+4                            125830
+5                             81247
+6                             81528
+7                             89052
+8                             96651
+9                            102827
+10                           106402
+11                           108920
+12                           109283
+13                           107848
+14                           105797
+15                           101130
+16                            96856
+17                            89952
+18                            82149
+19                            74860
+20                            66913
+21                            57919
+22                            49632
+23                            41816
+24                            34800
+25                            28382
+26                            22954
+27                            17762
+28                            14006
+29                            10796
+30                             8134
+31                             6162
+32                             4770
+33                             3691
+34                             2744
+35                             2235
+36                             1679
+37                             1362
+38                             1113
+39                              901
+40                              806
+41                              689
+42                              502
+43                              465
+44                              432
+45                              337
+46                              303
+47                              251
+48                              223
+49                              183
+50                              141
+51                              143
+52                              107
+53                              101
+54                               83
+55                               64
+56                               59
+57                               55
+58                               43
+59                               33
+60                               33
+61                               34
+62                               22
+63                               16
+64                               14
+65                               20
+66                               11
+67                               10
+68                               17
+69                               10
+70                                8
+71                                6
+72                                7
+73                                7
+74                                7
+75                                3
+76                                3
+77                                4
+78                                5
+79                                2
+80                                5
+81                                7
+82                                1
+83                                3
+84                                3
+85                                2
+86                                2
+87                                2
+88                                1
+89                                3
+90                                7
+92                                2
+93                                3
+95                                1
+96                                1
+97                                3
+100                               1
+101                               2
+102                               2
+103                               1
+104                               1
+105                               1
+109                               1
+110                               2
+111                               2
+114                               1
+116                               2
+117                               1
+134                               1
+135                               2
+161                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+Barcodes examined so far: 11400000
+Barcodes examined so far: 11600000
+Barcodes examined so far: 11800000
+Barcodes examined so far: 12000000
+Barcodes examined so far: 12200000
+Barcodes examined so far: 12400000
+Barcodes examined so far: 12600000
+Barcodes examined so far: 12800000
+Barcodes examined so far: 13000000
+Barcodes examined so far: 13200000
+Barcodes examined so far: 13400000
+Barcodes examined so far: 13600000
+Barcodes examined so far: 13800000
+working on... R_3_DMS_GCTTGTCA-GTATGTTC and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           7933125
+2                           1371122
+3                            234364
+4                             57242
+5                             35147
+6                             38260
+7                             47932
+8                             60697
+9                             75300
+10                            90199
+11                           104432
+12                           116185
+13                           123850
+14                           127826
+15                           127939
+16                           123313
+17                           115880
+18                           104869
+19                            93368
+20                            80833
+21                            67671
+22                            55523
+23                            45077
+24                            35477
+25                            27929
+26                            21430
+27                            15926
+28                            11920
+29                             8718
+30                             6562
+31                             4696
+32                             3544
+33                             2717
+34                             2099
+35                             1615
+36                             1318
+37                             1086
+38                              845
+39                              750
+40                              646
+41                              554
+42                              435
+43                              357
+44                              300
+45                              263
+46                              191
+47                              163
+48                              162
+49                              126
+50                              106
+51                               72
+52                               71
+53                               58
+54                               51
+55                               47
+56                               31
+57                               33
+58                               20
+59                               25
+60                               25
+61                               19
+62                               14
+63                               11
+64                               15
+65                               10
+66                               11
+67                                8
+68                                7
+69                                8
+70                                4
+71                                4
+72                                7
+73                                5
+74                                8
+75                                5
+76                                4
+77                                3
+78                                4
+79                                2
+80                                3
+81                                3
+82                                2
+83                                4
+85                                1
+87                                3
+88                                4
+89                                3
+90                                2
+91                                1
+92                                3
+93                                2
+96                                2
+97                                1
+98                                2
+100                               3
+101                               4
+105                               2
+107                               1
+108                               1
+110                               1
+112                               1
+114                               1
+117                               1
+138                               1
+147                               1
+170                               1
+199                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+working on... WT_3_DMS_GGACTTGG-CGTCTGCG and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           7909039
+2                           1341569
+3                            229738
+4                             64226
+5                             47799
+6                             57223
+7                             72879
+8                             89534
+9                            105542
+10                           120503
+11                           130291
+12                           135453
+13                           135935
+14                           131844
+15                           122858
+16                           111196
+17                            97919
+18                            84091
+19                            70236
+20                            57305
+21                            45792
+22                            35623
+23                            27354
+24                            20478
+25                            15330
+26                            10959
+27                             8202
+28                             5969
+29                             4267
+30                             3190
+31                             2389
+32                             1768
+33                             1465
+34                             1080
+35                              796
+36                              705
+37                              581
+38                              480
+39                              378
+40                              295
+41                              271
+42                              213
+43                              189
+44                              162
+45                              142
+46                              107
+47                               83
+48                               70
+49                               66
+50                               48
+51                               46
+52                               29
+53                               23
+54                               24
+55                               13
+56                               12
+57                               22
+58                               13
+59                               18
+60                                9
+61                               14
+62                                9
+63                                6
+64                                6
+65                                8
+66                                3
+67                                8
+68                               10
+69                                5
+70                                3
+71                                3
+72                                2
+73                                3
+74                                2
+75                                1
+76                                2
+77                                3
+78                                4
+79                                1
+80                                1
+82                                1
+83                                1
+85                                1
+86                                2
+87                                2
+89                                2
+90                                1
+92                                1
+94                                2
+96                                1
+97                                1
+99                                1
+100                               1
+101                               1
+103                               1
+105                               1
+108                               1
+110                               2
+114                               1
+115                               1
+116                               1
+131                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+working on... R_2_DMS_ATCCACTG-ACGCACCT and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+Processed 40.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           8447447
+2                           1544765
+3                            274594
+4                             66407
+5                             37335
+6                             39178
+7                             47979
+8                             58604
+9                             71499
+10                            84427
+11                            96386
+12                           106319
+13                           112743
+14                           117059
+15                           118132
+16                           115411
+17                           109846
+18                           101709
+19                            92688
+20                            82050
+21                            70531
+22                            60008
+23                            49560
+24                            40768
+25                            32527
+26                            25427
+27                            20243
+28                            15436
+29                            11443
+30                             8756
+31                             6545
+32                             4879
+33                             3676
+34                             2752
+35                             2147
+36                             1674
+37                             1325
+38                             1020
+39                              879
+40                              747
+41                              601
+42                              555
+43                              432
+44                              384
+45                              324
+46                              292
+47                              237
+48                              177
+49                              152
+50                              134
+51                              111
+52                               82
+53                               78
+54                               66
+55                               53
+56                               48
+57                               34
+58                               39
+59                               27
+60                               36
+61                               16
+62                               18
+63                               15
+64                                8
+65                               12
+66                               13
+67                               10
+68                                9
+69                                9
+70                               10
+71                                4
+72                                7
+73                               10
+74                                5
+75                                9
+76                                8
+77                                7
+78                                2
+79                                3
+80                                2
+82                                4
+83                                5
+84                                5
+85                                4
+86                                4
+87                                2
+88                                4
+89                                1
+91                                2
+92                                2
+93                                3
+95                                3
+96                                3
+97                                3
+98                                1
+99                                1
+100                               2
+103                               1
+104                               1
+105                               1
+106                               2
+108                               1
+111                               1
+112                               1
+115                               1
+117                               1
+119                               1
+121                               1
+122                               1
+129                               1
+130                               1
+149                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+Barcodes examined so far: 11400000
+Barcodes examined so far: 11600000
+Barcodes examined so far: 11800000
+Barcodes examined so far: 12000000
+working on... R_1_DMS_AAGTCCAA-TACTCATA and its mate
+Processed 1.0 Million reads
+Processed 2.0 Million reads
+Processed 3.0 Million reads
+Processed 4.0 Million reads
+Processed 5.0 Million reads
+Processed 6.0 Million reads
+Processed 7.0 Million reads
+Processed 8.0 Million reads
+Processed 9.0 Million reads
+Processed 10.0 Million reads
+Processed 11.0 Million reads
+Processed 12.0 Million reads
+Processed 13.0 Million reads
+Processed 14.0 Million reads
+Processed 15.0 Million reads
+Processed 16.0 Million reads
+Processed 17.0 Million reads
+Processed 18.0 Million reads
+Processed 19.0 Million reads
+Processed 20.0 Million reads
+Processed 21.0 Million reads
+Processed 22.0 Million reads
+Processed 23.0 Million reads
+Processed 24.0 Million reads
+Processed 25.0 Million reads
+Processed 26.0 Million reads
+Processed 27.0 Million reads
+Processed 28.0 Million reads
+Processed 29.0 Million reads
+Processed 30.0 Million reads
+Processed 31.0 Million reads
+Processed 32.0 Million reads
+Processed 33.0 Million reads
+Processed 34.0 Million reads
+Processed 35.0 Million reads
+Processed 36.0 Million reads
+Processed 37.0 Million reads
+Processed 38.0 Million reads
+Processed 39.0 Million reads
+Processed 40.0 Million reads
+Processed 41.0 Million reads
+Processed 42.0 Million reads
+Processed 43.0 Million reads
+Processed 44.0 Million reads
+                 number of barcodes
+number of reads                    
+1                           9279480
+2                           1761738
+3                            326446
+4                             72330
+5                             30907
+6                             26323
+7                             30472
+8                             36880
+9                             45696
+10                            55233
+11                            65818
+12                            74900
+13                            84643
+14                            92679
+15                            97686
+16                           102059
+17                           102726
+18                           101240
+19                            97523
+20                            92312
+21                            85618
+22                            77064
+23                            68631
+24                            60572
+25                            51894
+26                            43907
+27                            36769
+28                            30043
+29                            24042
+30                            19624
+31                            15489
+32                            11889
+33                             9214
+34                             7279
+35                             5514
+36                             4149
+37                             3306
+38                             2536
+39                             1994
+40                             1572
+41                             1299
+42                              995
+43                              903
+44                              729
+45                              625
+46                              529
+47                              515
+48                              395
+49                              383
+50                              320
+51                              271
+52                              230
+53                              195
+54                              185
+55                              156
+56                              131
+57                              125
+58                               97
+59                               93
+60                               61
+61                               56
+62                               47
+63                               54
+64                               32
+65                               28
+66                               22
+67                               21
+68                               20
+69                               17
+70                               17
+71                               13
+72                                7
+73                               12
+74                               14
+75                               11
+76                               11
+77                                3
+78                                6
+79                                4
+80                                4
+81                                7
+82                                8
+83                               10
+84                               10
+85                                5
+86                                5
+87                                3
+88                                3
+89                                6
+90                                3
+91                                1
+92                                6
+93                                3
+94                                2
+95                                4
+96                                2
+98                                3
+99                                1
+100                               1
+101                               1
+102                               3
+103                               1
+104                               4
+105                               2
+106                               3
+107                               1
+108                               2
+109                               2
+112                               1
+114                               2
+115                               1
+116                               1
+118                               2
+119                               2
+125                               1
+126                               1
+127                               1
+128                               1
+133                               1
+135                               1
+136                               1
+137                               1
+144                               1
+146                               1
+153                               1
+163                               1
+164                               1
+166                               1
+183                               1
+187                               1
+Barcodes examined so far: 200000
+Barcodes examined so far: 400000
+Barcodes examined so far: 600000
+Barcodes examined so far: 800000
+Barcodes examined so far: 1000000
+Barcodes examined so far: 1200000
+Barcodes examined so far: 1400000
+Barcodes examined so far: 1600000
+Barcodes examined so far: 1800000
+Barcodes examined so far: 2000000
+Barcodes examined so far: 2200000
+Barcodes examined so far: 2400000
+Barcodes examined so far: 2600000
+Barcodes examined so far: 2800000
+Barcodes examined so far: 3000000
+Barcodes examined so far: 3200000
+Barcodes examined so far: 3400000
+Barcodes examined so far: 3600000
+Barcodes examined so far: 3800000
+Barcodes examined so far: 4000000
+Barcodes examined so far: 4200000
+Barcodes examined so far: 4400000
+Barcodes examined so far: 4600000
+Barcodes examined so far: 4800000
+Barcodes examined so far: 5000000
+Barcodes examined so far: 5200000
+Barcodes examined so far: 5400000
+Barcodes examined so far: 5600000
+Barcodes examined so far: 5800000
+Barcodes examined so far: 6000000
+Barcodes examined so far: 6200000
+Barcodes examined so far: 6400000
+Barcodes examined so far: 6600000
+Barcodes examined so far: 6800000
+Barcodes examined so far: 7000000
+Barcodes examined so far: 7200000
+Barcodes examined so far: 7400000
+Barcodes examined so far: 7600000
+Barcodes examined so far: 7800000
+Barcodes examined so far: 8000000
+Barcodes examined so far: 8200000
+Barcodes examined so far: 8400000
+Barcodes examined so far: 8600000
+Barcodes examined so far: 8800000
+Barcodes examined so far: 9000000
+Barcodes examined so far: 9200000
+Barcodes examined so far: 9400000
+Barcodes examined so far: 9600000
+Barcodes examined so far: 9800000
+Barcodes examined so far: 10000000
+Barcodes examined so far: 10200000
+Barcodes examined so far: 10400000
+Barcodes examined so far: 10600000
+Barcodes examined so far: 10800000
+Barcodes examined so far: 11000000
+Barcodes examined so far: 11200000
+Barcodes examined so far: 11400000
+Barcodes examined so far: 11600000
+Barcodes examined so far: 11800000
+Barcodes examined so far: 12000000
+Barcodes examined so far: 12200000
+Barcodes examined so far: 12400000
+Barcodes examined so far: 12600000
+Barcodes examined so far: 12800000
+Barcodes examined so far: 13000000
